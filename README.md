@@ -1,7 +1,7 @@
 # Housing-Price
 
 ### Install the required libraries
-!pip3 install -r requirements
+```!pip3 install -r requirements`
 
 ### Sample Code execution -
 ``` python3 main.py -d Ames_housing -t SalePrice ```
